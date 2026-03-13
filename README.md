@@ -22,6 +22,6 @@ In this lab, I established a comprehensive Security Operations Center (SOC) envi
 
 ## Activities
 
-<a href="">Home Lab Setup</a><br>
-<a href="">BruteForce</a><br>
-<a href="">C2 Operation</a><br>
+- <a href="">Home Lab Setup</a>
+- <a href="">BruteForce</a>
+- <a href="">C2 Operation</a>
