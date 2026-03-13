@@ -1,4 +1,4 @@
-Home SOC
+**Home SOC Environment**
 
 ## Objective
 
@@ -14,16 +14,14 @@ In this lab, I established a comprehensive Security Operations Center (SOC) envi
 
 ### Tools Used
 
-- Elastic SIEM and Kibana for log ingestion and analysis.
-- Sysmon integration to get deep, security-focused telemetry
-- Mythic Agent for C2 channel and data exfiltration.
-- osTicket integration to generate tickets for alerts.
+- **Elastic SIEM** and **Kibana** for log ingestion and analysis.
+- **Sysmon** integration to get deep, security-focused telemetry
+- **Mythic Agent** for C2 channel and data exfiltration.
+- **osTicket** integration to generate tickets for alerts.
+- Automate remmediation action for endpoint device using **Elastic Defend**.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Activities
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+<a href="">Home Lab Setup</a>
+<a href="">BruteForce</a>
+<a href="">C2 Operation</a>
