@@ -22,6 +22,6 @@ In this lab, I established a comprehensive Security Operations Center (SOC) envi
 
 ## Activities
 
-- <a href="https://github.com/crew2057/Home-SOC/blob/main/Home%20Lab%20Setup/README.md">Home Lab Setup</a>
-- <a href="https://github.com/crew2057/Home-SOC/blob/main/Brute%20Force/README.md">BruteForce</a>
-- <a href="https://github.com/crew2057/Home-SOC/blob/main/C2%20Operation/README.md">C2 Operation</a>
+- <a href="https://github.com/crew2057/Home-SOC/blob/main/Home%20Lab%20Setup">Home Lab Setup</a>
+- <a href="https://github.com/crew2057/Home-SOC/blob/main/Brute%20Force">BruteForce</a>
+- <a href="https://github.com/crew2057/Home-SOC/blob/main/C2%20Operation">C2 Operation</a>
