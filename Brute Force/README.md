@@ -7,8 +7,8 @@ Added detection rules in Elastic to alert on failed sign-in attempt for "Adminis
 
 ### Attacker Scenario
 Used Hydra to perform brute force attacks on the target devices.
-<br>_Linux Target:_ `hydra -l root -P rockyou.txt ssh://{{host_ip}}`
-<br>_Windows Target:_ `hydra -l Administrator -P rockyou.txt rdp://{{host_ip}}`
+<br>_Linux Target:_ `hydra -l root -P rockyou.txt ssh://{{target_ip}}`
+<br>_Windows Target:_ `hydra -l Administrator -P rockyou.txt rdp://{{target_ip}}`
 
 ### Defender Actions
 - Looked for alert section within Defender to view all the brute force attempts to our target devices.
