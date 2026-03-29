@@ -25,3 +25,4 @@ In this lab, I established a comprehensive Security Operations Center (SOC) envi
 - <a href="https://github.com/crew2057/Home-SOC/blob/main/Home%20Lab%20Setup">Home Lab Setup</a>
 - <a href="https://github.com/crew2057/Home-SOC/blob/main/Brute%20Force">BruteForce</a>
 - <a href="https://github.com/crew2057/Home-SOC/blob/main/C2%20Operation">C2 Operation</a>
+- <a href="https://github.com/crew2057/Home-SOC/tree/main/Atomic%20Red%20Team%20Canary">Atomic Red Team Canary</a>
